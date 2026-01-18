@@ -60,12 +60,12 @@
 
 <!-- Main GitHub Stats Card -->
 <div style="border-radius: 15px; overflow: hidden; box-shadow: 0 5px 15px rgba(0,0,0,0.3);">
-  <img src="https://github-readme-stats.vercel.app/api?username=NtakirutimanaI&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="180" alt="GitHub Stats"/>
+  
 </div>
 
 <!-- Top Languages Card -->
 <div style="border-radius: 15px; overflow: hidden; box-shadow: 0 5px 15px rgba(0,0,0,0.3);">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NtakirutimanaI&layout=compact&theme=tokyonight&hide_border=false" height="180" alt="Top Languages"/>
+
 </div>
 
 <!-- GitHub Streak Card -->

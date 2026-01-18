@@ -2,8 +2,6 @@
   <!-- Hero Banner -->
   <img src="header_banner.png" width="100%" alt="Hero Banner"/>
 
-  <h1>👋 Hi there, I'm Innocent Ntakirutimana</h1>
-
   <!-- Typing effect -->
   <a href="https://github.com/NtakirutimanaI">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Explorer;Always+Learning" alt="Typing SVG"/>
